@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    height: 100vh;
+}
+
+.picture-container {
+    display: flex;
+    justify-content: center;
+}
+
+.picture-container img{
+    width: 33%;
+}
+
+.topnav{
+    background-color:antiquewhite;
+    height: 33%;
+}
